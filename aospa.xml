@@ -132,6 +132,7 @@
   <project path="packages/apps/Nfc" name="AOSPA/android_packages_apps_Nfc" remote="aospa" />
   <remove-project name="platform/packages/apps/Settings" />
   <project path="packages/apps/Settings" name="aospa-fog/android_packages_apps_Settings" remote="aospa" />
+  <project path="packages/apps/GameSpace" name="aospa-fog/android_packages_apps_GameSpace" remote="aospa" />
   <remove-project name="platform/packages/modules/Bluetooth" />
   <project path="packages/modules/Bluetooth" name="AOSPA/android_packages_modules_Bluetooth" remote="aospa" />
   <remove-project name="platform/packages/modules/common" />
